@@ -1,1 +1,8 @@
-this repo is a collection of scripts and classes to demonstrate my ability in Ruby and PHP
+mes_credit_card.rb Mes Credit card gateway ruby class
+
+my_time.rb  Enter time and hours offset and it will tell you the AM PM offset time.
+ It doesn't use any ruby time libraries. 
+
+
+
+
